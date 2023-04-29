@@ -1,0 +1,1 @@
+const String openAIkey = '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';
